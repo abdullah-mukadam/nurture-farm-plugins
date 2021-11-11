@@ -27,7 +27,7 @@ This repository is using a monorepo strategy which lets us have one source of tr
 
 #### Artifacts Deployment
 
-- Npm packages are deployed [here](https://www.npmjs.com/search?q=%40superset-viz-plugins)
+- Npm packages are deployed [here](https://www.npmjs.com/search?q=%40nurture-farm-plugins)
 - Docker Image is deployed [here](https://hub.docker.com/r/nielsenoss/apache-superset)
 
   
@@ -46,7 +46,7 @@ This repository is using a monorepo strategy which lets us have one source of tr
 
 | Package                                                                                                                       | Version                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [@superset-viz-plugins/plugin-chart-composed](https://github.com/nielsen-oss/superset-viz-plugins/tree/master/plugins/plugin-chart-composed)                     | [![Version](https://img.shields.io/npm/v/@superset-viz-plugins/plugin-chart-composed?style=flat-square)](https://www.npmjs.com/package/@superset-viz-plugins/plugin-chart-composed)                             |
+| [@nurture-farm-plugins/plugin-chart-composed](https://github.com/nielsen-oss/nurture-farm-plugins/tree/master/plugins/plugin-chart-composed)                     | [![Version](https://img.shields.io/npm/v/@nurture-farm-plugins/plugin-chart-composed?style=flat-square)](https://www.npmjs.com/package/@nurture-farm-plugins/plugin-chart-composed)                             |
 
 
 ### Additional docs:
