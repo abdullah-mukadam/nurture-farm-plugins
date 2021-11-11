@@ -37,7 +37,7 @@ import {
   y2AxisLabelAngle,
   y2AxisTickLabelAngle,
   yAxisLabel,
-  yAxisLabelAngle,
+  yAxisLabelAngle ,
   yAxisTickLabelAngle,
 } from './configs/axis';
 import {
