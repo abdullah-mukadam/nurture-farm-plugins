@@ -1,4 +1,4 @@
-# superset-viz-plugins
+# nurture-farm-plugins
 ![release-workflow](https://github.com/nielsen-oss/superset-viz-plugins/workflows/release-workflow/badge.svg)
 
 ### Guides
