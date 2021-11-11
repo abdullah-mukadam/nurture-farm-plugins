@@ -13,4 +13,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 0.0.2 (2021-05-08)
 
-**Note:** Version bump only for package @nurture-farm-plugins/plugin-chart-composed
+**Note:** Version bump only for package @nurture-farm-plugins/plugin-chart-composed  - - 
