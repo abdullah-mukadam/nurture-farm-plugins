@@ -1,6 +1,6 @@
 {
   "name": "@nurture-farm-plugins/preset-chart-custom-deckgl",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Superset Custom Chart - deck.gl",
   "pluginName": "CustomDeckGLChartPreset",
   "sideEffects": true,
