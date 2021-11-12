@@ -1,6 +1,6 @@
 {
   "name": "@nurture-farm-plugins/plugin-chart-composed",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Superset Chart - Chart Composed",
   "pluginName": "ComposedChartPlugin",
   "sideEffects": false,
