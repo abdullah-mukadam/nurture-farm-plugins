@@ -19,8 +19,6 @@ type GeojsonPolygonFeature = {
   };
 };
 
-export default function getPointsFromPolygon(
-  feature: CustomPolygonFeature | GeojsonPolygonFeature,
-) {
+export default function getPointsFromPolygon(feature: CustomPolygonFeature | GeojsonPolygonFeature) {
   return 'geometry' in feature.polygon ? feature.polygon.geometry.coordinates[0] : feature.polygon;
 }
