@@ -40,7 +40,7 @@ export default function Tooltip(props: TooltipProps) {
 
   if (typeof content === 'string') {
     // eslint-disable-next-line react-hooks/rules-of-hooks
-    const contentHtml = useMemo(
+    const contentHtml: any = useMemo(
       () => ({
         __html: filterXSS(content, { stripIgnoreTag: true }),
       }),
