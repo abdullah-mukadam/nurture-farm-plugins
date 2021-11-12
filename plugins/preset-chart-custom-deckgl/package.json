@@ -2,7 +2,7 @@
   "name": "@nurture-farm-plugins/preset-chart-custom-deckgl",
   "version": "0.0.4",
   "description": "Superset Custom Chart - deck.gl",
-  "pluginName": "CustomDeckGLChartPreset",
+  "pluginName": "CustomScatterChartPlugin",
   "sideEffects": true,
   "main": "lib/index.js",
   "module": "esm/index.js",

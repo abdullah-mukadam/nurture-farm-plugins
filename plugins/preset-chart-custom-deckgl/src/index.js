@@ -1,4 +1,4 @@
-export { default as CustomDeckGLChartPreset } from './preset';
+// export { default as CustomDeckGLChartPreset } from './preset';
 // export { default as ArcChartPlugin } from './layers/Arc';
 // export { default as GeoJsonChartPlugin } from './layers/Geojson';
 // export { default as GridChartPlugin } from './layers/Grid';
