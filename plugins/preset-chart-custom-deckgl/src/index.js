@@ -3,7 +3,7 @@
 // export { default as GeoJsonChartPlugin } from './layers/Geojson';
 // export { default as GridChartPlugin } from './layers/Grid';
 // export { default as HexChartPlugin } from './layers/Hex';
-//  export { default as CustomMultiChartPlugin } from './CustomMulti';
+// export { default as CustomMultiChartPlugin } from './CustomMulti';
 // export { default as PathChartPlugin } from './layers/Path';
 // export { default as PolygonChartPlugin } from './layers/Polygon';
 // export { default as ScatterChartPlugin } from './layers/Scatter';
